@@ -1,4 +1,4 @@
-## Olá, Meu nome é Sofia ✨ 
+## Oi, meu nome é Sofia ✨ 
 
 🖥️ Sou técnica em Desenvolvimento de Sistemas  <br>
 ⭐ Estou começando a minha jornada na programação <br>
