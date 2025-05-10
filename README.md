@@ -1,10 +1,7 @@
-## Olá, Meu nome é Sofia 
+## Olá, Meu nome é Sofia ✨ 
 
-. <br>
-. <br>
-. <br> 
-. <br>
-
+🖥️ Sou técnica em Desenvolvimento de SIstemas  <br>
+⭐ Estou começando a minha jornada na programação <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sofia-vit%C3%B3ria-4125a2344/) 
