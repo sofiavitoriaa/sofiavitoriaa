@@ -1,4 +1,4 @@
-## Oi, meu nome é Sofia, e sou apaixonada por tecnologia, sou técnica em desenvolvimento de sistemas e atuo com suporte de TI no NOVO Atacarejo.
+## Oi, meu nome é Sofia Vitória e sou apaixonada por tecnologia, sou técnica em desenvolvimento de sistemas e atuo como suporte de TI no NOVO Atacarejo.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sofiavitoriaa/) 
