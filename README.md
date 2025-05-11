@@ -1,8 +1,4 @@
-## Oi, meu nome é Sofia ✨ 
-
-🖥️ Sou técnica em Desenvolvimento de Sistemas  <br>
-⭐ Estou começando a minha jornada na programação <br>
-
+## Oi, meu nome é Sofia, e sou apaixonada por tecnologia, sou técnica em desenvolvimento de sistemas e atuo com suporte de TI no NOVO Atacarejo.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sofiavitoriaa/) 
