@@ -2,7 +2,7 @@
 
 **`Técnica em Desenvolvimento de Sistemas`**
 
-Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos, sou Pernambucana e amo tecnologia. Fiz o curso técnico de Desenvolvimento de Sistemas na ETE (Escola Ténica Estadual de Palmares) e atualemte estou estudando desenvolvimento web.
+Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos, sou Pernambucana e amo tecnologia. Fiz o curso técnico de Desenvolvimento de Sistemas na ETE (Escola Ténica Estadual de Palmares) e atualmente estou estudando desenvolvimento web.
 
 ---
 
