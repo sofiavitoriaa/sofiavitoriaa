@@ -10,6 +10,22 @@ Me chamo Sofia Vitória da Silva, tenho 23 anos, sou Pernambucana e amo tecnolog
 
 <img 
     align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -26,27 +42,11 @@ Me chamo Sofia Vitória da Silva, tenho 23 anos, sou Pernambucana e amo tecnolog
 />
 <img 
     align="left" 
-    alt="MySQL"
-    title="MySQL" 
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 <img 
     align="left" 
@@ -56,6 +56,15 @@ Me chamo Sofia Vitória da Silva, tenho 23 anos, sou Pernambucana e amo tecnolog
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
 
 <br/>
 <br/>
