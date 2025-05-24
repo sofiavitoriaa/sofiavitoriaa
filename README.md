@@ -2,7 +2,7 @@
 
 **`Técnica em Desenvolvimento de Sistemas`**
 
-Me chamo Sofia Vitória da Silva, tenho 23 anos, sou Pernambucana e sou apaixonada por tecnologia.
+Me chamo Sofia Vitória da Silva, tenho 23 anos, sou Pernambucana e amo tecnologia.
 
 ---
 
