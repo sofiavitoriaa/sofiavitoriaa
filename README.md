@@ -30,7 +30,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
     title="MariaDB" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"
 />
 <img 
     align="left" 
