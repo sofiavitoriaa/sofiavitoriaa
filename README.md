@@ -57,17 +57,21 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
 
 <br/>
 <br/>
-
-<!--
-<p>
-  <img 
+<img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
+    alt="HMTL" 
+    title="HTML"
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=sofiavitoriaa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
--->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+[![My Skills](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
+
 <img 
       align="left" 
       alt="GitHub Stats" 
