@@ -6,7 +6,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
 
 🎓 Técnica em Desenvolvimento de Sistemas
 <br>
-📖 <a href = "https://cert.efset.org/en/nZrWmi"> B2 Upper Intermediate English Level</a>
+📖 <a href="https://cert.efset.org/en/nZrWmi" target="_blank"> B2 Upper Intermediate English Level</a>
 
 ---
 
@@ -18,7 +18,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
         align="left" 
         alt="PHP" 
         title="PHP"
-        width="30px" 
+        width="50px" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=php" 
         />
@@ -31,7 +31,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
         align="left" 
         alt="MySQL" 
         title="MySQL"
-        width="30px" 
+        width="50px" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=mysql" 
         />
@@ -44,7 +44,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
         align="left" 
         alt="HMTL" 
         title="HTML"
-        width="30px" 
+        width="50px" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=html" 
         />
@@ -57,7 +57,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
         align="left" 
         alt="CSS" 
         title="CSS"
-        width="30px" 
+        width="50px" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=css" 
         />
@@ -70,7 +70,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
         align="left" 
         alt="GIT" 
         title="GIT"
-        width="30px" 
+        width="50px" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=git" 
         />
