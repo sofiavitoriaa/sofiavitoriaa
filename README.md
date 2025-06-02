@@ -12,7 +12,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
 
 ### 🌎 Linguagens e Tecnologias
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img 
         align="left" 
@@ -25,7 +25,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img 
         align="left" 
@@ -38,7 +38,20 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
   </a>
 </p>
 
-<p align="center">
+<p>
+  <a href="https://skillicons.dev">
+    <img 
+        align="left" 
+        alt="Python" 
+        title="Python"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=python" 
+        />
+  </a>
+</p>
+
+<p>
   <a href="https://skillicons.dev">
     <img 
         align="left" 
@@ -51,7 +64,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img 
         align="left" 
@@ -64,7 +77,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img 
         align="left" 
