@@ -1,4 +1,4 @@
-**`Técnica em Desenvolvimento de Sistemas`**
+**`back-end developer junior`**
 
 Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu amo desafios, adoro aprender coisas novas e tenho fascínio pela tecnologia. Tenho curso técnico em Desenvolvimento de Sistemas e sou dev back-end júnior.
 
