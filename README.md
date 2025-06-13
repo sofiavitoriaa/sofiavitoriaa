@@ -92,7 +92,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiavitoriaa&hide_border=false&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiavitoriaa&hide border=false&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
