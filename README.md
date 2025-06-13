@@ -87,6 +87,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
 <br/>
 <br/>
 <br/>
+<br/>
 
 <img 
       align="left" 
