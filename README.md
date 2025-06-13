@@ -6,6 +6,20 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
 📖 <a href="https://cert.efset.org/en/nZrWmi"> B2 Upper Intermediate English Level</a>
 
 ---
+
+<p>
+  <a href="https://skillicons.dev">
+    <img 
+        align="left" 
+        alt="Java" 
+        title="Java"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=java" 
+        />
+  </a>
+</p>
+
 <p>
   <a href="https://skillicons.dev">
     <img 
