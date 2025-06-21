@@ -23,38 +23,11 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
   <a href="https://skillicons.dev">
     <img 
         align="left" 
-        alt="Spring" 
-        title="Spring"
-        width="50px" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=spring" 
-        />
-  </a>
-</p>
-
-
-<p>
-  <a href="https://skillicons.dev">
-    <img 
-        align="left" 
         alt="PHP" 
         title="PHP"
         width="50px" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=php" 
-        />
-  </a>
-</p>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img 
-        align="left" 
-        alt="Laravel" 
-        title="Laravel"
-        width="50px" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=laravel" 
         />
   </a>
 </p>
