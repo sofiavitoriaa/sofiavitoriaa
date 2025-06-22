@@ -63,7 +63,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
     <img 
         align="left" 
         alt="JS" 
-        title="JS"
+        title="JavaScript"
         width="50px" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=js" 
