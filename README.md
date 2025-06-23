@@ -89,7 +89,7 @@ Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu 
     <img 
         align="left" 
         alt="GIT" 
-        title="GIT"
+        title="Git"
         width="50px" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=git" 
