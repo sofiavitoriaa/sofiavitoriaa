@@ -1,4 +1,4 @@
-
+*`Técnica em Desenvolvimento de Sistemas`*
 Olá, eu me chamo Sofia Vitória da Silva, tenho 23 anos e sou Pernambucana. Eu amo desafios, adoro aprender coisas novas e tenho fascínio pela tecnologia. 
 
 📖 <a href="https://cert.efset.org/en/nZrWmi"> B2 Upper Intermediate English Level</a>
