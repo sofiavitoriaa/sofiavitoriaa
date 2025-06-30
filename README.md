@@ -2,8 +2,6 @@
 
 💻 Desenvolvedora em formação com foco em Java, atualmente me dedicando ao aprimoramento contínuo nessa linguagem. Possuo curso técnico em Desenvolvimento de Sistemas e domínio em PHP, Python, MySQL, JavaScript, HTML e CSS, com experiência na construção de aplicações web e soluções back-end.
 
-📍 Atualmente trabalho como repositora no Novo Atacarejo, e busco a minha transição para a área de tecnologia, unindo minha dedicação profissional à paixão por desenvolvimento de software.
-
 📚 Sempre aberta a novos aprendizados, colaborativa por natureza e comprometida com a qualidade do que entrego.
 
 📖 <a href="https://cert.efset.org/en/nZrWmi"> B2 Upper Intermediate English Level</a>
