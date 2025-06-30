@@ -1,25 +1,12 @@
 **`Técnica em Desenvolvimento de Sistemas`**
 
-💻 Desenvolvedora em formação com foco em Java, atualmente me dedicando ao aprimoramento contínuo nessa linguagem. Possuo curso técnico em Desenvolvimento de Sistemas e domínio em PHP, Python, MySQL, JavaScript, HTML e CSS, com experiência na construção de aplicações web e soluções back-end.
+💻 Desenvolvedora em formação com experiência em aplicações web e back-end.
 
-📚 Sempre aberta a novos aprendizados, colaborativa por natureza e comprometida com a qualidade do que entrego.
+📚 Sou colaborativa por natureza, comprometida com a entrega de qualidade e sempre aberta a novos aprendizados.
 
 📖 <a href="https://cert.efset.org/en/nZrWmi"> B2 Upper Intermediate English Level</a>
 
 ---
-
-<p>
-  <a href="https://skillicons.dev">
-    <img 
-        align="left" 
-        alt="java" 
-        title="Java"
-        width="50px" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=java" 
-        />
-  </a>
-</p>
 
 <p>
   <a href="https://skillicons.dev">
