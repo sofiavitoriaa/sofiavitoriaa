@@ -2,7 +2,7 @@
 
 💻 Desenvolvedora em formação com experiência em aplicações web e back-end.
 
-📚 Sou colaborativa por natureza, comprometida com a entrega de qualidade e sempre aberta a novos aprendizados.
+📚 Sou colaborativa, comprometida com a qualidade e sempre aberta a novos aprendizados e desafios que contribuam para meu crescimento técnico e profissional.
 
 📖 <a href="https://cert.efset.org/en/nZrWmi"> B2 Upper Intermediate English Level</a>
 
