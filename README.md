@@ -60,18 +60,6 @@
   </a>
 </p>
 
-<p>
-  <a href="https://skillicons.dev">
-    <img 
-        align="left" 
-        alt="JS" 
-        title="JavaScript"
-        width="50px" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=js" 
-        />
-  </a>
-</p>
 
 <p>
   <a href="https://skillicons.dev">
