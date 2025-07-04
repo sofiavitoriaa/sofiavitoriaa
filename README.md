@@ -60,33 +60,6 @@
   </a>
 </p>
 
-
-<p>
-  <a href="https://skillicons.dev">
-    <img 
-        align="left" 
-        alt="HTML" 
-        title="HTML"
-        width="50px" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=html" 
-        />
-  </a>
-</p>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img 
-        align="left" 
-        alt="CSS" 
-        title="CSS"
-        width="50px" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=css" 
-        />
-  </a>
-</p>
-
 <p>
   <a href="https://skillicons.dev">
     <img 
