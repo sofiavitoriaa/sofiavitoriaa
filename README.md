@@ -4,7 +4,7 @@
 
 📚 Sou colaborativa, comprometida com a qualidade e sempre aberta a novos aprendizados e desafios que contribuam para meu crescimento técnico e profissional.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sofiaavitoriaa) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-vit%C3%B3ria-4125a2344/) 
 
 ---
 
