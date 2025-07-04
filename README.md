@@ -1,4 +1,4 @@
-**`Back-End Developer`**
+**`Desenvolvedora Back-End`**
 
 💻 Desenvolvedora em formação com experiência em aplicações back-end.
 
@@ -86,7 +86,7 @@
 <img
     align="left" 
     alt="GitHub Stats" 
-    width="390px" 
+    width="380px" 
     src="https://github-readme-stats.vercel.app/api?username=sofiavitoriaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
 />
 
