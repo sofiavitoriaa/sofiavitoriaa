@@ -1,10 +1,8 @@
-**`Técnica em Desenvolvimento de Sistemas`**
+**`Back-End Developer`**
 
-💻 Desenvolvedora em formação com experiência em aplicações web e back-end.
+💻 Desenvolvedora em formação com experiência em aplicações back-end.
 
 📚 Sou colaborativa, comprometida com a qualidade e sempre aberta a novos aprendizados e desafios que contribuam para meu crescimento técnico e profissional.
-
-📖 <a href="https://cert.efset.org/en/nZrWmi"> B2 Upper Intermediate English Level</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sofiaavitoriaa) 
 
