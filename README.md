@@ -6,6 +6,8 @@
 
 📖 <a href="https://cert.efset.org/en/nZrWmi"> B2 Upper Intermediate English Level</a>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sofiaavitoriaa) 
+
 ---
 
 <p>
@@ -86,7 +88,7 @@
 <img
     align="left" 
     alt="GitHub Stats" 
-    height="150px" 
+    width="390px" 
     src="https://github-readme-stats.vercel.app/api?username=sofiavitoriaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
 />
 
