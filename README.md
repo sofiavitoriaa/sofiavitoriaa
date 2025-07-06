@@ -1,10 +1,14 @@
 **`Desenvolvedora Back-End`**
 
-💻 Desenvolvedora em formação com experiência em aplicações back-end.
+💻 Desenvolvedora backend em formação, com experiência prática em aplicações web. Possuo conhecimento sólido em PHP e MySQL, e atualmente estou estudando Java para ampliar minhas habilidades e atuação na área de desenvolvimento backend. Tenho vivência na construção de soluções back-end, sempre com foco em entregar código limpo, funcional e bem estruturado.
 
 📚 Sou colaborativa, comprometida com a qualidade e sempre aberta a novos aprendizados e desafios que contribuam para meu crescimento técnico e profissional.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-vit%C3%B3ria-4125a2344/) 
+---
+
+💻 Backend developer in training, with hands-on experience in web applications. I have solid knowledge of PHP and MySQL, and I’m currently studying Java to expand my skills and deepen my work in backend development. I have experience building backend solutions, always focused on writing clean, functional, and well-structured code.
+
+📚 I’m collaborative, committed to quality, and always open to new learning opportunities and challenges that contribute to my technical and professional growth.
 
 ---
 
