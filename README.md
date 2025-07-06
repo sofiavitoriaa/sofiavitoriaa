@@ -38,19 +38,6 @@
   <a href="https://skillicons.dev">
     <img 
         align="left" 
-        alt="Python" 
-        title="Python"
-        width="50px" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=python" 
-        />
-  </a>
-</p>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img 
-        align="left" 
         alt="MySQL" 
         title="MySQL"
         width="50px" 
