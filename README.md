@@ -1,14 +1,6 @@
 **`Back-End Developer`**
 
-💻 Desenvolvedora backend em formação, com experiência prática em aplicações web. Possuo conhecimento sólido em PHP e MySQL, e atualmente estou estudando Java para ampliar minhas habilidades e atuação na área de desenvolvimento back-end. Tenho vivência na construção de soluções back-end, sempre com foco em entregar código limpo, funcional e bem estruturado.
-
-📚 Sou colaborativa, comprometida com a qualidade e sempre aberta a novos aprendizados e desafios que contribuam para meu crescimento técnico e profissional. 
-
----
-
-💻 Backend developer in training, with hands-on experience in web applications. I have solid knowledge of PHP and MySQL, and I’m currently studying Java to expand my skills and deepen my work in backend development. I have experience building backend solutions, always focused on writing clean, functional, and well-structured code.
-
-📚 I’m collaborative, committed to quality, and always open to new learning opportunities and challenges that contribute to my technical and professional growth.
+💻 Desenvolvedora backend em formação, com experiência em aplicações web. Tenho conhecimento sólido em PHP e MySQL, e atualmente estou aprofundando meus estudos em Java para ampliar minha atuação na área. Busco sempre construir soluções limpas, funcionais e bem estruturadas, com comprometimento, colaboração e abertura a novos aprendizados que impulsionem meu crescimento profissional.
 
 ---
 
