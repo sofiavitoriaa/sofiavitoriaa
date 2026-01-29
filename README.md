@@ -79,6 +79,7 @@
     height="150px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiavitoriaa&hide_border=true&theme=dark&include_all_commits=true&count_private=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
 <img
     align="left" 
     alt="GitHub Stats" 
