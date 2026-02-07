@@ -72,7 +72,8 @@
 <br/>
 <br/>
 <br/>
- 
+
+ <!--
 <img 
     align="left" 
     alt="GitHub Stats" 
@@ -86,8 +87,7 @@
     src="https://github-readme-stats.vercel.app/api?username=sofiavitoriaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true" 
 />
 
-
-
+-->
 
 
 
