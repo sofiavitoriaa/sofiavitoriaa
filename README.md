@@ -8,11 +8,11 @@
   <a href="https://skillicons.dev">
     <img 
         align="left" 
-        alt="Java" 
-        title="Java"
+        alt="Python" 
+        title="Python"
         width="50px" 
         style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=java" 
+        src="https://skillicons.dev/icons?i=py" 
         />
   </a>
 </p>
@@ -21,11 +21,11 @@
   <a href="https://skillicons.dev">
     <img 
         align="left" 
-        alt="Spring" 
-        title="Spring"
+        alt="Docker" 
+        title="Docker"
         width="50px" 
         style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=spring" 
+        src="https://skillicons.dev/icons?i=docker" 
         />
   </a>
 </p>
