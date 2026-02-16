@@ -40,6 +40,19 @@ Foco em crescimento consistente, boas práticas e desenvolvimento de sistemas or
   <a href="https://skillicons.dev">
     <img 
         align="left" 
+        alt="PostgreSQL" 
+        title="PostgreSQP"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=postgres" 
+        />
+  </a>
+</p>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img 
+        align="left" 
         alt="PHP" 
         title="PHP"
         width="50px" 
