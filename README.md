@@ -2,11 +2,11 @@
 
 🚀 Desenvolvedora Back-end em formação | ADS
 
-Experiência com PHP e MySQL, atualmente desenvolvendo projetos práticos com Python, PostgreSQL e APIs REST como parte da minha evolução técnica estruturada.
+Base em PHP e MySQL, com desenvolvimento contínuo em Python, PostgreSQL e APIs REST por meio de projetos práticos e estudos estruturados.
 
-Atuo como Assistente de TI no Novo Atacarejo, unindo experiência profissional com construção de portfólio técnico. Estou consolidando conhecimentos em backend, banco de dados, versionamento e fundamentos de infraestrutura moderna.
+Atuo como Assistente de TI no Novo Atacarejo, ampliando minha visão de sistemas e infraestrutura enquanto construo minha trajetória em desenvolvimento backend.
 
-Foco em crescimento consistente, boas práticas e desenvolvimento de sistemas organizados e escaláveis.
+Comprometida com evolução técnica, organização de código e construção de soluções eficientes.
   
 ---
 
