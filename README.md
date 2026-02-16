@@ -1,6 +1,12 @@
 **`Back-End Developer`** 
 
-💻 Desenvolvedora Back-end em formação, com experiência em aplicações web e atuação como Assistente de TI na rede de atacados do Novo Atacarejo. Tenho conhecimento sólido em PHP e MySQL, e atualmente estou aprofundando meus estudos em Java para ampliar minha atuação na área de desenvolvimento.
+🚀 Desenvolvedora Back-end em formação | ADS
+
+Experiência com PHP e MySQL, atualmente desenvolvendo projetos práticos com Python, PostgreSQL e APIs REST como parte da minha evolução técnica estruturada.
+
+Atuo como Assistente de TI no Novo Atacarejo, unindo experiência profissional com construção de portfólio técnico. Estou consolidando conhecimentos em backend, banco de dados, versionamento e fundamentos de infraestrutura moderna.
+
+Foco em crescimento consistente, boas práticas e desenvolvimento de sistemas organizados e escaláveis.
   
 ---
 
