@@ -41,7 +41,7 @@ Comprometida com evolução técnica, organização de código e construção de
     <img 
         align="left" 
         alt="PostgreSQL" 
-        title="PostgreSQP"
+        title="PostgreSQL"
         width="50px" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=postgres" 
