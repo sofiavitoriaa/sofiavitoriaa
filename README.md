@@ -14,45 +14,6 @@ Comprometida com evolução técnica, organização de código e construção de
   <a href="https://skillicons.dev">
     <img 
         align="left" 
-        alt="Python" 
-        title="Python"
-        width="50px" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=py" 
-        />
-  </a>
-</p>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img 
-        align="left" 
-        alt="Docker" 
-        title="Docker"
-        width="50px" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=docker" 
-        />
-  </a>
-</p>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img 
-        align="left" 
-        alt="PostgreSQL" 
-        title="PostgreSQL"
-        width="50px" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=postgres" 
-        />
-  </a>
-</p>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img 
-        align="left" 
         alt="PHP" 
         title="PHP"
         width="50px" 
