@@ -40,6 +40,19 @@ Comprometida com evolução técnica, organização de código e construção de
   <a href="https://skillicons.dev">
     <img 
         align="left" 
+        alt="LINUX" 
+        title="Linux"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=linux" 
+        />
+  </a>
+</p>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img 
+        align="left" 
         alt="GIT" 
         title="Git"
         width="50px" 
