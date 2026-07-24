@@ -1,14 +1,54 @@
 **`Back-End Developer`** 
 
-🚀 Desenvolvedora Back-end em formação | ADS
+Focada em desenvolvimento Backend com Java, aprofundando conhecimentos em orientação a objetos, APIs REST, bancos de dados relacionais e boas práticas de desenvolvimento de software.
 
-Base em PHP e MySQL, com desenvolvimento contínuo em Python, PostgreSQL e APIs REST por meio de projetos práticos e estudos estruturados.
+Atualmente direciono meus estudos para o ecossistema Java e Cloud Computing, explorando tecnologias voltadas para aplicações escaláveis, infraestrutura em nuvem e arquitetura de sistemas modernos.
 
-Atuo como Assistente de TI no Novo Atacarejo, ampliando minha visão de sistemas e infraestrutura enquanto construo minha trajetória em desenvolvimento backend.
+Atuo como Assistente de TI no Novo Atacarejo, ampliando minha experiência com suporte, sistemas e infraestrutura, enquanto construo minha trajetória como desenvolvedora backend.
 
-Comprometida com evolução técnica, organização de código e construção de soluções eficientes.
+Comprometida com o aprendizado contínuo, a organização de código e a criação de soluções eficientes e escaláveis.
+
+
   
 ---
+<p>
+  <a href="https://skillicons.dev">
+    <img 
+        align="left" 
+        alt="JAVA" 
+        title="Java"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=java" 
+        />
+  </a>
+</p>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img 
+        align="left" 
+        alt="Spring" 
+        title="Spring"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=spring"
+        />
+  </a>
+</p>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img 
+        align="left" 
+        alt="AWS" 
+        title="Aws"
+        width="50px" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=aws" 
+        />
+  </a>
+</p>
 
 <p>
   <a href="https://skillicons.dev">
